@@ -18,3 +18,18 @@ To allow all sites again, add `dns` to that line again.
 Consult Ubuntu article http://bit.ly/1I1zz69 for more information.
 
 Now available on RubyGems at https://rubygems.org/gems/web-gem.
+
+To execute RubyGem version, run the following:
+
+```
+% irb
+>> require 'web-gem'
+```
+
+To execute source code execute:
+
+```
+% git clone https://github.com/jgeis/web-gem.git
+% cd web-gem
+% sudo ruby main.rb
+```

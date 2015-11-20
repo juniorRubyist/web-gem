@@ -16,3 +16,5 @@ and remove `dns` or add that line and remove `dns`.
 To allow all sites again, add `dns` to that line again.
 
 Consult Ubuntu article http://bit.ly/1I1zz69 for more information.
+
+Now available on RubyGems at https://rubygems.org/gems/web-gem.

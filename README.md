@@ -1,4 +1,4 @@
-# web-gem
+# web-gem [![Gem Version](https://badge.fury.io/rb/web-gem.svg)](https://badge.fury.io/rb/web-gem)
 A simple Ruby-based web control tool for Linux.
 
 This tool edits the `/etc/hosts` file.
